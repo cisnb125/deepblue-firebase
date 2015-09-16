@@ -1,28 +1,28 @@
-<ion-view view-title="Login">
+<ion-view view-title="로그인">
     <ion-content class="padding">
         <div class="list">
             <img src="img/logo1.png" class="logo">
             <div class="logoText">
-                myChat
+                Deep Blue 채팅
             </div>
         </div>
         <div class="list card padding">
             <label class="item item-input">
-                <span class="input-label">Email</span>
-                <input type="text" ng-model="user.email">
+                <span class="input-label">유저네임</span>
+                <input type="text" ng-model="user.displayName">
             </label>
-            <label class="item item-input">
-                <span class="input-label">Password</span>
-                <input type="password" ng-model="user.pwdForLogin">
-            </label>
+            <!--<label class="item item-input">-->
+                <!--<span class="input-label">Password</span>-->
+                <!--<input type="password" ng-model="user.pwdForLogin">-->
+            <!--</label>-->
             <button ng-click="signIn(user)" class="button button-block button-positive activated">
-                Sign In
+                들어가시죠
             </button>
         </div>
-        <div class="list" style="text-align:center">
-            <button ng-click="modal.show()" class="button button-small button-outline icon-left ion-person-add button-positive">
-                Create New Account
-            </button>
-        </div>
+        <!--<div class="list" style="text-align:center">-->
+            <!--<button ng-click="modal.show()" class="button button-small button-outline icon-left ion-person-add button-positive">-->
+                <!--Create New Account-->
+            <!--</button>-->
+        <!--</div>-->
     </ion-content>
 </ion-view>

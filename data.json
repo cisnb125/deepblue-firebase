@@ -1,0 +1,74 @@
+{
+  "rooms": [
+    {
+      "chats": {
+        "-JglJnGDXcqLq6m844pZ": {
+          "createdAt": 1422461711580,
+          "from": "권 대표님",
+          "message": "구 선생, 연사는 강퇴야."
+        }
+      },
+      "icon": "ion-university",
+      "id": 0,
+      "name": "9층 끼허브",
+      "notes": "꿈이 이루어 지는 곳"
+    },
+    {
+      "chats": {
+        "-Jg7fpJg910-ytGND3Ky": {
+          "createdAt": 1421779883628,
+          "from": "rahulluthra",
+          "message": "Which Camera should I buy for beginners?"
+        }
+      },
+      "icon": "ion-camera",
+      "id": 1,
+      "name": "8층 입주 스타트업",
+      "notes": "사업 대박나세요"
+    },
+    {
+      "chats": {
+        "-JgA5BQCjRj-p7EOHD20": {
+          "createdAt": 1421820348392,
+          "from": "유 대표님",
+          "message": "엽세요?"
+        }
+      },
+      "icon": "ion-music-note",
+      "id": 2,
+      "name": "7층 맥부자",
+      "notes": "나와 유대표님의 아지트"
+    },
+    {
+      "chats": {
+        "-JgAI2J4ksJJJA8hxNJK": {
+          "createdAt": 1421823734183,
+          "from": "ankit",
+          "message": "hiiiii"
+        }
+      },
+      "icon": "ion-woman",
+      "id": 3,
+      "name": "6층 미스테리",
+      "notes": "뭐하는곳?"
+    },
+    {
+      "chats": {
+      },
+      "icon": "ion-plane",
+      "id": 4,
+      "name": "5층 약속의 땅",
+      "notes": "언제갈 수 있을까"
+    }
+  ],
+  "users": {
+    "simplelogin:10": {
+      "displayName": "rahulluthra",
+      "email": "rahul@test.com"
+    },
+    "simplelogin:11": {
+      "displayName": "rahatkh",
+      "email": "rahat@khanna.com"
+    }
+  }
+}
